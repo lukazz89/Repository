@@ -1,1 +1,7 @@
 c:\users\łukasz\documents\visual studio 2013\Projects\Sztuczna Inteligencja Grafy 2\Sztuczna Inteligencja Grafy 2\bin\Debug\Sztuczna Inteligencja Grafy 2.exe.config
+C:\Users\Łukasz\Documents\Git\Sztuczna Inteligencja Grafy 2\Sztuczna Inteligencja Grafy 2\bin\Debug\Sztuczna Inteligencja Grafy 2.exe.config
+C:\Users\Łukasz\Documents\Git\Sztuczna Inteligencja Grafy 2\Sztuczna Inteligencja Grafy 2\bin\Debug\Sztuczna Inteligencja Grafy 2.exe
+C:\Users\Łukasz\Documents\Git\Sztuczna Inteligencja Grafy 2\Sztuczna Inteligencja Grafy 2\bin\Debug\Sztuczna Inteligencja Grafy 2.pdb
+C:\Users\Łukasz\Documents\Git\Sztuczna Inteligencja Grafy 2\Sztuczna Inteligencja Grafy 2\obj\Debug\Sztuczna Inteligencja Grafy 2.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Documents\Git\Sztuczna Inteligencja Grafy 2\Sztuczna Inteligencja Grafy 2\obj\Debug\Sztuczna Inteligencja Grafy 2.exe
+C:\Users\Łukasz\Documents\Git\Sztuczna Inteligencja Grafy 2\Sztuczna Inteligencja Grafy 2\obj\Debug\Sztuczna Inteligencja Grafy 2.pdb
